@@ -54,9 +54,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📸 Dashboard
 
-Upload a CSV file and get fraud predictions instantly.
 
 ## Author
 
