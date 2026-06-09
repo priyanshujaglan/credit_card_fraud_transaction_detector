@@ -2,6 +2,10 @@
 
 A Machine Learning-based web application built using Streamlit that detects fraudulent credit card transactions.
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png) 
+
 ## 🚀 Features
 
 - Upload transaction CSV files
